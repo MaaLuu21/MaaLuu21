@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou desenvolvedora backend com experiência em C#, .NET, Linux, bash,  C++ e automação de sistemas embarcados. Tenho experiência em soluções de emulação e retrogaming, integração de hardware com software e manutenção de circuitos eletrônicos.<br>Atualmente, foco no desenvolvimento em C# com o framework .NET, construindo APIs REST e serviços Backend seguindo boas práticas, princípios SOLID e DDD. Estou constantemente me aprofundando para aperfeiçoar meus conhecimentos e habilidades.</p>
+<p align="left">Sou desenvolvedora Backend com experiência em C# e .NET, com foco em APIs REST e serviços. Tenho experiência no ecossistema Linux e em projetos que envolvem integração entre software e hardware, como soluções de emulação. Atualmente, estou me aprofundando no uso do Entity Framework Core com MySQL, aprendendo práticas de TDD com Xunit e explorando autenticação e autorização com JWT. Estou sempre em busca de evoluir minhas habilidades, escrevendo código mais organizado, limpo e escalável, enquanto descubro novas formas de criar soluções eficientes e bem estruturadas.</p>
 
 ###
 
