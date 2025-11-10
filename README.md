@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou desenvolvedora Backend com experiência em C# e .NET, com foco em APIs REST e serviços. Tenho experiência no ecossistema Linux e em projetos que envolvem integração entre software e hardware, como soluções de emulação. Atualmente, estou me aprofundando no uso do Entity Framework Core com MySQL, aprendendo práticas de TDD com Xunit e explorando autenticação e autorização com JWT. Estou sempre em busca de evoluir minhas habilidades, escrevendo código mais organizado, limpo e escalável, enquanto descubro novas formas de criar soluções eficientes e bem estruturadas.</p>
+<p align="left">Sou desenvolvedora Backend com experiência em C# e .NET. Tenho experiência no ecossistema Linux e em projetos que envolvem integração entre software e hardware, como soluções de emulação. Atualmente, estou me aprofundando no uso do Entity Framework Core com MySQL, , desenvolvimento de APIs REST e serviços, aprendendo práticas de TDD com xUnit e explorando autenticação e autorização com JWT. Estou sempre em busca de evoluir minhas habilidades, escrevendo código mais organizado, limpo e escalável, enquanto descubro novas formas de criar soluções eficientes e bem estruturadas.</p>
 
 ###
 
