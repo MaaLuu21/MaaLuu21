@@ -9,20 +9,13 @@ Atualmente, venho aprofundando meus estudos em arquitetura de software, incluind
 
 
 <p align="center">
-  <a href="https://maaluu21.github.io/portifolio/" target="_blank"
-     style="display:inline-block;
-            padding:12px 24px;
-            background-color:#1f2933;
-            color:#ffffff;
-            border-radius:10px;
-            text-decoration:none;
-            font-weight:600;">
-    🚀 Visite meu Portfólio
+  🚀 <a href="https://maaluu21.github.io/portifolio/" target="_blank">
+    Visite meu Portfólio
   </a>
 </p>
 
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
@@ -46,7 +39,7 @@ Atualmente, venho aprofundando meus estudos em arquitetura de software, incluind
 
 ###
 
-## GitHub Stats
+## ⭐ GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MaaLuu21&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="110" alt="streak graph"  />
@@ -54,8 +47,8 @@ Atualmente, venho aprofundando meus estudos em arquitetura de software, incluind
   <img src="https://github-readme-stats.vercel.app/api?username=MaaLuu21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="110" alt="stats graph"  />
 </div>
 
-### Entre em contato
-<div align="center">
+### 📬 Entre em contato
+<div align="left">
   <a href="mailto:marialuizapaes22@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
