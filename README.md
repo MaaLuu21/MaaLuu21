@@ -17,7 +17,7 @@ Atualmente, venho aprofundando meus estudos em arquitetura de software, incluind
 
 ## 🛠️ Tecnologias
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" alt="dotnetcore logo"  />
@@ -47,8 +47,9 @@ Atualmente, venho aprofundando meus estudos em arquitetura de software, incluind
   <img src="https://github-readme-stats.vercel.app/api?username=MaaLuu21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="110" alt="stats graph"  />
 </div>
 
-### 📬 Entre em contato
-<div align="left">
+###
+
+<div align="center">
   <a href="mailto:marialuizapaes22@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
