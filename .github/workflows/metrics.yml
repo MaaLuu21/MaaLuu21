@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Token de autenticação (obrigatório)
+          # Token de autenticação com permissão 'repo'
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Seu usuário do GitHub
@@ -25,6 +25,12 @@ jobs:
 
           # Nome do arquivo que será gerado
           filename: assets/metrics.svg
+
+          # Configurações de Fuso Horário
+          config_timezone: America/Sao_Paulo
+
+          # Inclui repositórios próprios, colaborações e privados
+          repositories_affiliations: owner, collaborator, organization_member
 
           # Seções base a serem incluídas
           base: header, activity, community, repositories, metadata
@@ -37,3 +43,22 @@ jobs:
 
           # Plugin de linhas de código
           plugin_lines: yes
+
+          # Plugin de commits detalhados
+          plugin_commits: yes
+
+          # --- NOVOS PLUGINS ADICIONADOS ---
+
+          # Plugin de Calendário 3D (IsoCalendar)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Plugin de Hábitos de Programação (Gráficos de commits por hora/dia)
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          # Plugin de Ícones de Tecnologias/Tópicos
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 15
